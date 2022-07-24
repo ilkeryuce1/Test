@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-style: italic;
+ 
+}
+H1 {
+    color: brown;
+}
+p 
+{ color: red;}
+
+.text-blue
+{color:blue;}
+.buyuk
+{font-size: 30;}
+.sarı
+{color:yellow;}
+.yenı
+{color: green; font: size 50px;}
+.beyaz  
+{color:white;}
